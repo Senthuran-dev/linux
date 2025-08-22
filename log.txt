@@ -1,0 +1,6 @@
+--- Logbook ---
+$ ls
+$ mkdir linux_project
+$ cd linux_project
+$ touch profile.txt commands.txt log.txt
+$ echo "Hello Linux" >> profile.txt
